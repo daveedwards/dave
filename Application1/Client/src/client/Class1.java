@@ -9,7 +9,8 @@ public class Class1
     int h5;        
     int h6;        
     int h7;        
-    int h8;            
+    int h8;   
+    String http;
     
     public Class1() 
     {
