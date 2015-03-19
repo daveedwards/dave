@@ -30,4 +30,12 @@ public class Class1
   {
     return h10;
   }
+
+    public void setH9(int h9) {
+        this.h9 = h9;
+    }
+
+    public int getH9() {
+        return h9;
+    }
 }
