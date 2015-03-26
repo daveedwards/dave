@@ -1,4 +1,5 @@
 package client;
 
-public interface Interface1 {
+public interface Interface1 
+{
 }
