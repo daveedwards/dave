@@ -11,7 +11,15 @@ public class Class1
   int h7;
   int h8;
   int h9;
-  int h10;
+
+    public void setH(int h) {
+        this.h = h;
+    }
+
+    public int getH() {
+        return h;
+    }
+    int h10;
   String sqldev;
 
   String http;
